@@ -5,7 +5,7 @@
 <div style="margin:  50px ;"> 
             <a class="btn btn-success" href='{{url("persons/create")}}'> Add Person  </a>
         </div>
-    <div >
+    <div style="margin:  50px ;" >
         <table class="table table-striped">
             <tr  class="card-header" >
                 <th>Seriel Number </th>
